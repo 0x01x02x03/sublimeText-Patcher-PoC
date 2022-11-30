@@ -3,7 +3,7 @@
 This project is intented to be a PoC of how the process of bypass in user validation against it key system.
 
 - PoC
-- C#
+- C# with .NetFramework 2.0
 - ✨Magic ✨
 - Reverse Engineering
 - Fun
