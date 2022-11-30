@@ -1,5 +1,4 @@
 ﻿# sublimeText-Patcher-PoC
-# Emilio
 ## _sublimeText-Patcher-PoC_
 
 This project is intented to be a PoC of how the process of bypass in user validation against it key system.
