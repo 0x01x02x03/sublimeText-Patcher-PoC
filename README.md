@@ -25,7 +25,7 @@ This project is intented to be a PoC of how the process of bypass in user valida
 
 #### Support the official release
 
-Buy the software in the link below:
+## Buy the software in the link below:
 
 ```sh
 https://www.sublimehq.com/store/text
